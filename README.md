@@ -15,5 +15,5 @@ Este proyecto es un sistema de inventario básico desarrollado con Node.js, Expr
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone [https://github.com/tu_usuario/inventario.git](https://github.com/Zarko-1989/SistemaInventario.git)
+git clone https://github.com/Zarko-1989/SistemaInventario.git
 cd SistemaInventario
