@@ -1,0 +1,17 @@
+{
+  "name": "backendproyectofinal",
+  "version": "1.0.0",
+  "description": "Sistema Inventario",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Juan Jose Villa Alzate",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
